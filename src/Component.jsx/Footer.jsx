@@ -1,5 +1,5 @@
 import React from 'react'
-import Logo from '/home/user/OrganicStore/src/assets/organic-store-logo5.svg'
+import Logo from '../assets/organic-store-logo5.svg'
 import '../Component.css/Footer.css'
 import { Link} from 'react-router-dom'
 import facebook from'../assets/facebook.png'
