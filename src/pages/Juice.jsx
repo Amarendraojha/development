@@ -44,8 +44,9 @@ function Juice() {
 <h1 className='filterheadshop'> Juice</h1>
 <p className='shoppara'>
   <p>Showing 1-9 of 12 results</p>
-  <p>Default sorting</p> </p>
-  <ProductStorageEvery></ProductStorageEvery>
+  <p>Default sorting</p>
+</p>
+  <ProductStorageEvery/>
   <p className='parabutt'><button className='nextbutton'>1</button> <button className='nextbutton'>2</button> <button className='nextbutton'>---></button></p>
 
 </div>
