@@ -1,7 +1,7 @@
 import React from 'react'
-import Logo from '/home/user/OrganicStore/src/assets/organic-store-logo5.svg'
-import cart from '/home/user/OrganicStore/src/assets/cart.svg'
-import login from'/home/user/OrganicStore/src/assets/login.png'
+import Logo from '../assets/organic-store-logo5.svg'
+import cart from '../assets/cart.svg'
+import login from'../assets/login.png'
 import { Link} from 'react-router-dom'
 import  '../Component.css/Header.css'
 
