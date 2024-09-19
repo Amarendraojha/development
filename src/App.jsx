@@ -30,8 +30,8 @@ function App() {
     <Header></Header>
        <Routes>
          <Route path="/" element={<Layout/>}/>
-         <Route path="/Everything" element={<Everything></Everything>}/>
-         <Route path="/Groceries" element={<Groceries></Groceries>}/>
+         <Route path="/Everything" element={<Everything />}/>
+         <Route path="/Groceries" element={<Groceries />/>
          <Route path="/Juice" element={<Juice/>}/>
          <Route path="/About" element={<About/>}/>
          <Route path="/Contact" element={<Contact/>}/>
