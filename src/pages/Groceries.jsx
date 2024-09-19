@@ -47,7 +47,11 @@ function Groceries() {
   <span>Default sorting</span> 
 </p>
   <ProductStorageEvery/>
-  <p className='parabutt'><button className='nextbutton'>1</button> <button className='nextbutton'>2</button> <button className='nextbutton'>---></button></p>
+  <p className='parabutt'>
+    <button className='nextbutton'>1</button> 
+    <button className='nextbutton'>2</button>
+    <button className='nextbutton'>---</button>
+  </p>
 
 </div>
 
