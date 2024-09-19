@@ -1,0 +1,209 @@
+.maindiv{
+    width:100%;
+    background-color: rgb(250,249,247);
+
+}
+
+.imagecontainer{
+padding-top:100px;
+width:100%;
+height:600px;
+display: flex;
+justify-content: center;
+gap:50px;
+background-color: rgb(250,249,247);
+
+}
+
+.organicproduct img{
+    height:480px;
+
+}
+
+.secondimgcontainer{
+    align-items: start;
+    margin-top: 100px;
+
+    
+}
+
+.secondimgdiv{
+    display:flex;
+    align-items: start;
+    margin:10px;
+}
+
+.secondimgdivbutt{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    margin:10px;
+    width:200px;
+    height: 50px;
+    background-color: rgb(139,195,74);
+    margin-top: 25px;
+    border-color:rgb(139,195,74);
+}
+.secondimgdivbutti{
+    display:flex;
+    align-items: end;
+    justify-content: center;
+    border-radius: 10px;
+    margin:10px;
+    width:20px;
+    height: 30px;
+    background-color: rgb(139,195,74);
+    margin-top: 25px;
+    border-color:rgb(139,195,74);
+
+}
+
+.secondimgdivh1{
+    display:flex;
+    align-items: start;
+    margin:10px;
+    font-size: 60px;
+}
+
+.maincerti{
+    display:flex;
+    width:100%;
+    height:200px;
+    justify-content: center;
+    align-items: center;
+    gap:25px;
+    background-color: rgb(17,17,17);
+
+}
+.brandtag{
+    padding-top: 30px;
+    display:column;
+    align-self: center;
+    width:300px;
+    height:100px;
+    padding-left: 10px;
+background-color:rgb(48,48,48);
+color:white;
+}
+
+.brandtag img{
+    height:40px;
+    background-color: white;
+    
+}
+
+.brand{
+    display: flex;
+    gap:10px;
+    justify-content: start;
+    align-items: start;
+}
+
+.bestsellingproduct{
+   padding-top: 100px; 
+   padding-bottom: 150px;
+
+}
+
+.selh{
+    font-size: 50px;
+}
+
+.pimg{
+    padding: 20px 0px 100px 0px;
+}
+
+.maindivofsellproduct{
+    width:100%;
+}
+
+.registration{
+    width:100%;
+    height:280px;
+    background-color: rgb(248,246,243);
+
+}
+
+.firstdivregistration{
+    display:flex;
+    justify-content:space-around;
+    padding-top: 50px;
+    padding-bottom: 30px;
+    background-color: rgb(17,17,17);
+    color:white;
+
+}
+
+.registhead{
+    padding-top: 30px;
+}
+
+.Trandingproduct{
+    padding-top: 100px; 
+    padding-bottom: 150px;
+    background-color: ;
+}
+
+.Customerdiv{
+    width:100%;
+    background-color: rgb(250,249,247);
+    height:600px;
+    padding-top:50px;
+}
+
+.customerimg{
+    padding: 20px 0px 60px 0px;  
+}
+
+.Customerreviewmaindiv{
+    width:100%;
+    display:flex;
+    justify-content: center;
+    gap:20px;
+}
+
+.Customerreview1{
+    width:20%;
+    height: 300px;
+    background-color: white;
+    border-radius: 10px;
+
+}
+.Customerreview1 img{
+    width:110px;
+    height: 90px;
+   
+}
+
+.Customerreview2{
+    width:20%;
+    margin-top: -50px;
+    padding-bottom: 150px;
+    background-image: url("src/assets/backreview.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    color:white;
+    padding-top: 20px;
+
+}
+
+.Customerreview3{
+    width:20%;
+    background-color: white;
+    border-radius: 10px;
+}
+
+.Customerreview3 img{
+    width:110px;
+    height: 90px;
+}
+
+.Customerpara {
+    width:80%;
+    height:100px;
+    display: flex;
+    justify-content: center;
+    margin-left: 30px;
+    margin-right:20px ;
+}

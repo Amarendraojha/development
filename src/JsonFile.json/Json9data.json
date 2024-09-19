@@ -1,0 +1,74 @@
+[
+    {
+        "id":1,
+        "type": "Groceries",
+        "image":"src/assets/coffee-asorted-300x300.jpg",
+        "productname":"Assorted Coffee ",
+        "star":"src/assets/rating.png",
+        "price":"£35.00"
+    },
+    {
+        "id":2,
+        "type": "Groceries",
+        "image":" src/assets/sanitizer-300x300.jpg",
+        "productname":" Hand Sanitizer",
+        "star":"src/assets/rating.png",
+        "price":"£15.00"
+    },
+    {
+        "id":3,
+        "type": "Groceries",
+        "image":" src/assets/red-chillies-300x300.jpg",
+        "productname":" Handpicked Red Chillies",
+        "star":"src/assets/rating.png",
+        "price":"£19.00"
+    },
+    {
+        "id":4,
+        "type": "Groceries",
+        "image":"src/assets/edible-oil-300x300.jpg ",
+        "productname":" Natural Edible Oil",
+        "star":"src/assets/rating.png",
+        "price":"25.00"
+    },
+    {
+        "id":5,
+        "type": "Groceries",
+        "image":"src/assets/coffee-asorted-300x300.jpg",
+        "productname":"Assorted Coffee ",
+        "star":"src/assets/rating.png",
+        "price":"£35.00"
+    },
+    {
+        "id":6,
+        "type": "Groceries",
+        "image":" src/assets/sanitizer-300x300.jpg",
+        "productname":" Hand Sanitizer",
+        "star":"src/assets/rating.png",
+        "price":"£15.00"
+    },
+    {
+        "id":7,
+        "type": "Groceries",
+        "image":" src/assets/red-chillies-300x300.jpg",
+        "productname":" Handpicked Red Chillies",
+        "star":"src/assets/rating.png",
+        "price":"£19.00"
+    },
+    {
+        "id":8,
+        "type": "Groceries",
+        "image":"src/assets/edible-oil-300x300.jpg ",
+        "productname":" Natural Edible Oil",
+        "star":"src/assets/rating.png",
+        "price":"25.00"
+    },
+    {
+        "id":9,
+        "type": "Groceries",
+        "image":"src/assets/coffee-asorted-300x300.jpg",
+        "productname":"Assorted Coffee ",
+        "star":"src/assets/rating.png",
+        "price":"£35.00"
+    }
+    ]

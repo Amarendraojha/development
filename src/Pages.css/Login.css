@@ -1,0 +1,68 @@
+.heading{
+    font-family: 'Oswald', sans-serif;
+    height:50px;
+    display: flex;
+    justify-content: start;
+}
+
+.maindivlog{
+    font-family: 'Oswald', sans-serif;
+    width:700px;
+    height: 600px;
+    border-style: solid;
+    display: flex;
+    flex-direction: column;
+    margin-left: 600px;
+    border-color: rgb(180, 206, 206);
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+    font-family: 'Oswald', sans-serif;
+    margin: 20px 40px 40px 40px;
+}
+
+.login{
+    font-family: 'Oswald', sans-serif;
+    height: 60px;
+}
+
+.inputlogin{
+    font-family: 'Oswald', sans-serif;
+    font-size: 20px;
+    width: 500px;
+    height: 50px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.agreecondition{
+    font-family: 'Oswald', sans-serif;
+    width: 500px;
+    height: 50px;
+    margin-top: 25px;
+    display: flex;
+    align-self:start;
+    }
+
+.check{
+    width:20px;
+    height:20px;
+    display:flex;
+    align-self: start;
+    padding: 20px;
+    margin: 0px 10px 0px 10px;
+}
+
+.butt{
+    font-family: 'Oswald', sans-serif;
+    font-size: 20px;
+    width: 520px;
+    height: 50px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    background-color: black;
+    color:white;
+    
+}

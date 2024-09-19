@@ -1,0 +1,38 @@
+.maidivbestEvery{
+width:100%;
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+gap:35px;
+}
+
+.productmainEvery{
+    width:23%;
+    height:400px;
+    display: block;
+}
+.productimgEvery{
+    width:100%;
+    margin-bottom: 10px;
+    height:200px;
+}
+
+.productnameheadEvery{
+    margin-top: 10px;
+}
+.starEvery{
+    width:100%;
+    height:70px;
+
+
+}
+
+.productimgstarEvery{
+    width:60%;
+height:90px;
+margin-top: -20px;
+}
+
+.priceparaEvery{
+    margin-top: -25px;
+}
