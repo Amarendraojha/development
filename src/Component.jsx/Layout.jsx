@@ -1,6 +1,6 @@
 import React from 'react'
 import '../Component.css/Layout.css'
-import OrganicProduct from '/home/user/OrganicStore/src/assets/organic-products-hero.png'
+// import OrganicProduct from '/home/user/OrganicStore/src/assets/organic-products-hero.png'
 import leaf from'/home/user/OrganicStore/src/assets/logo-leaf-new.png'
 import additem from'/home/user/OrganicStore/src/assets/additem.png'
 import delivery from'/home/user/OrganicStore/src/assets/free-delivery.png'
