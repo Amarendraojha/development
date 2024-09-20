@@ -14,11 +14,17 @@ const ProductStorage = () => {
 
                 {data.map((data,id) =>(
                 <div className='productmain' key={id}>
-                     <nav><Link to='/ProductCount'><img className="productimg"  src={data.image} alt='image'/></Link></nav> 
+                     <nav>
+                         <Link to='/ProductCount'>
+                             <img className="productimg"  src={data.image} alt='image'/>
+                         </Link>
+                     </nav> 
                       <p>{data.type}</p>
                       <h2 className="productnamehead"> {data.productname}</h2>
-                      <div className="star"><img className="productimgstar" src={data.star} alt='image'/>
-                      <p className="pricepara"> {data.price}</p></div>
+                      <div className="star">
+                          <img className="productimgstar" src={data.star} alt='image'/>
+                      <p className="pricepara"> {data.price}</p>
+                      </div>
                 </div>) )}
             
             </div>
