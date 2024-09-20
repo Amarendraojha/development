@@ -65,10 +65,10 @@ Easy Returns
 <div className='bestsellingproduct'>
   <h1 className='selh'> Best Selling Products</h1>
   <img className='pimg' src={leaf} alt='leaf'></img>
-    <ProductStorage></ProductStorage>
+    <ProductStorage/>
 </div>
 
-  <Decoration></Decoration>
+  <Decoration/>
   
   <div className='registration' >
     <div className='firstdivregistration'>  
@@ -81,7 +81,7 @@ Easy Returns
   <div className='Trandingproduct'>
   <h1 className='selh'> Trending Products</h1>
   <img className='pimg' src={leaf} alt='leaf'></img>
-    <ProductStorage></ProductStorage>
+    <ProductStorage/>
   </div>
 
 <div className='Customerdiv'>
